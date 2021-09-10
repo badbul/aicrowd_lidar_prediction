@@ -1,0 +1,10 @@
+datamodule:
+  _type: PointDataModule
+model:
+  _type: PointNetModel
+
+seed: 42
+batch_size: 2
+
+
+

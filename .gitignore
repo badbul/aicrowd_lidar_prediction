@@ -2,6 +2,8 @@
 input/
 .idea/
 __pycache__/
+lightning_logs/
+
 
 # files
 *.zip
