@@ -1,0 +1,10 @@
+# folders
+input/
+.idea/
+__pycache__/
+
+# files
+*.zip
+*.csv
+*.ckpt
+*.npz
